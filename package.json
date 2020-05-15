@@ -1,6 +1,6 @@
 {
   "name": "npx-sample",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Simple npx example",
   "main": "index.js",
   "bin" : {
