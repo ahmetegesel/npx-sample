@@ -1,12 +1,13 @@
 {
   "name": "npx-sample",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Simple npx example",
   "main": "index.js",
   "bin" : {
     "npx-sample": "./index.js"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
